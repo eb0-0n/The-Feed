@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/TheFeed_QuietMorning.unity
+    guid: b990253efd301430989fe30c966ce21e
+  - enabled: 1
+    path: Assets/Scenes/TheFeed_Interactions.unity
+    guid: fac2813c62ed44b3fa01e4521fcb5615
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
